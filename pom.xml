@@ -18,7 +18,7 @@
         <java.version>11</java.version>
         <unirest.version>2.3.14</unirest.version>
         <j-serial-comm.version>2.5.1</j-serial-comm.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <lombok.version>1.18.8</lombok.version>
         <jacoco.version>0.8.3</jacoco.version>
         <equalsverifier.version>3.1.9</equalsverifier.version>
